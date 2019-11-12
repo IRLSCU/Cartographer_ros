@@ -1,0 +1,8 @@
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/google/protobuf.git
+
+[submodule "ceres-solver"]
+        path = ceres-solver
+        url = https://github.com/BlueWhaleRobot/ceres-solver.git
+
